@@ -1,0 +1,11 @@
+/coc
+/configstore
+/gh
+/raycast
+.DS_Store
+/nvim/lazy-lock.json
+/nvim/.stylua.toml
+/nvim/coc-settings.json
+/nvim/selene.toml
+/nvim/neovim.yml
+/nvim/.neoconf.json
