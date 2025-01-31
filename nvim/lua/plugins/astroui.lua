@@ -1,7 +1,7 @@
 return {
   "AstroNvim/astroui",
   opts = {
-    colorscheme = "tokyonight",
+    colorscheme = "astrodark",
     highlights = {
       init = {},
       astrodark = {},
